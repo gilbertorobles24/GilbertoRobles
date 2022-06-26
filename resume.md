@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-image: assets/images/pic01.jpg
+image: assets/images/resume_pic.png
 nav-menu: true
 ---
 
