@@ -2,7 +2,7 @@
 title: Projects
 layout: projects
 description: 'Check out the projects that I have worked on over the years.'
-image: assets/images/pic07.jpg
+image: assets/images/projects_cover.jpg
 nav-menu: true
 ---
 
