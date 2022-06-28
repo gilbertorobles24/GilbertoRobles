@@ -9,21 +9,25 @@ nav-menu: true
 <!-- Main -->
 <div id="main">
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Robotics!</h2>
-		</header>
-		<p>This gallery includes my original designs for 3D printed robotics. From a 3ft tall 6-Axis Robotic Arm with Gripper, 
-			to a humanoid remote-controlled robotic arm (real time human arm controller),
-			all the way to a Object Recognition-equipped rover.
-		</p>
-	</div>
-</section>
-
-<!-- Two -->
 <section id="two" class="spotlights">
+	<section>
+		<a href="projects.html" class="image">
+			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Robotics!</h3>
+				</header>
+				<p>This gallery includes my original designs for 3D printed robotics. From a 3ft tall 6-Axis Robotic Arm with Gripper, 
+			to a humanoid remote-controlled robotic arm (real time human arm controller),
+			all the way to a Object Recognition-equipped rover.</p>
+				<ul class="actions">
+					<li><a href="projects.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
 	<section>
 		<a href="projects.html" class="image">
 			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
