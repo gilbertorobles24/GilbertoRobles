@@ -16,8 +16,7 @@ nav-menu: true
 		</header>
 		
 		<!-- Content -->
-		<style>body,html{ height: 100%; margin:0; padding:0; overflow:hidden; }</style>
-		<iframe src="assets/files/2022_RESUME.pdf" width="100%" height="100%" style="border:none; height:100%; width:100%; overflow:hidden;"></iframe>
+		<iframe src="assets/files/2022_RESUME.pdf" width="100%" height="100%" style="border:none;"></iframe>
 	</div>
 </section>
 </div>
