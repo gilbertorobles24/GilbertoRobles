@@ -40,7 +40,7 @@ nav-menu: true
 				<p>Custom Keras models from scratch, Image Classification, Text Classification, NLP, Sequence-to-Sequence Models, 
 					LSTM, Deep Neural Networks, Speech Recognition.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="gallery_tfkeras.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -57,7 +57,7 @@ nav-menu: true
 				<p>Click HERE to see PLA IRON MAN! Also... I assemble, maintain, and fix my machines. Have a totally dead Etsy store, 
 					but in return, a gallery of interesting miniatures, cosplay, and mechanical prints.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="gallery_3dp.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -73,7 +73,7 @@ nav-menu: true
 				</header>
 				<p>App development with React Native and Python. Coming Soon!</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="gallery_appdev.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
@@ -89,7 +89,7 @@ nav-menu: true
 			</header>
 			<p>Electric bike! Electric skateboard! Home Gym Build!</p>
 			<ul class="actions">
-				<li><a href="projects.html" class="button">Learn more</a></li>
+				<li><a href="gallery_electric.html" class="button">Learn more</a></li>
 			</ul>
 		</div>
 	</div>

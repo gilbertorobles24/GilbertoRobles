@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Robotics
+title: Electrical and IoT Projects, and More!
 description: null
 image: null
 author: null
@@ -8,5 +8,5 @@ show_tile: false
 ---
 
 <div class="inner">
-    <h3>Welcome to my robotics gallery!</h3>
+	<h3>Welcome to my project gallery!</h3>
 </div>
