@@ -18,5 +18,5 @@ nav-menu: true
 <!-- Content -->
 <body>
 	<h1>PDF Example with iframe</h1>
-	<iframe src="/assets/files/2022 RESUME.pdf" width="100%" height="500px"></iframe>
+	<iframe src="assets/files/2022_RESUME.pdf" width="100%" height="500px"></iframe>
 </body>
