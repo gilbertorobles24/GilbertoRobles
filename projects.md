@@ -13,9 +13,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Robotics!</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>This gallery includes my original designs for 3D printed robotics. From a 3ft tall 6-Axis Robotic Arm with Gripper, 
+			to a humanoid remote-controlled robotic arm (real time human arm controller),
+			all the way to a Object Recognition-equipped rover.
+		</p>
 	</div>
 </section>
 
@@ -28,9 +31,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>TensorFlow/Keras Projects</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Custom Keras models from scratch, Image Classification, Text Classification, NLP, Sequence-to-Sequence Models, 
+					LSTM, Deep Neural Networks, Speech Recognition</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +48,10 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>3D Printing Expertise</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Click HERE to see PLA IRON MAN! Also... I assemble, maintain, and fix my machines. Have a totally dead Etsy store, 
+					but in return, a gallery of interesting miniatures, cosplay, and mechanical prints.</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,28 +65,32 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>App Dev (Android)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Click HERE to see PLA IRON MAN! Also... I assemble, maintain, and fix my machines. Have a totally dead Etsy store, 
+				but in return, a gallery of interesting miniatures, cosplay, and mechanical prints.</p>
 				<ul class="actions">
 					<li><a href="projects.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="projects.html" class="button next">Get Started</a></li>
-		</ul>
+	<section>
+	<a href="projects.html" class="image">
+		<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Electrical, IoT, and Other</h3>
+			</header>
+			<p>Electric bike! Electric skateboard! Home Gym Build!</p>
+			<ul class="actions">
+				<li><a href="projects.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
 	</div>
+</section>
 </section>
 
 </div>
