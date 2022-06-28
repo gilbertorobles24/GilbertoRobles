@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: projects
-description: 'Check out the projects that I have worked on over the years.'
+description: "Check out the projects that I have worked on over the years."
 image: assets/images/projects_cover.jpg
 nav-menu: true
 ---
@@ -23,7 +23,7 @@ nav-menu: true
 					to a humanoid remote-controlled robotic arm (real time human arm controller),
 					all the way to a Object Recognition-equipped rover.</p>
 				<ul class="actions">
-					<li><a href="projects.html" class="button">Learn more</a></li>
+					<li><a href="gallery_robotics.html" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
