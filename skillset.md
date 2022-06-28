@@ -2,7 +2,7 @@
 layout: post
 title: Skill Set
 description: The skills I have developed over the years.
-image: assets/images/pic11.jpg
+image: assets/images/network.png
 nav-menu: true
 ---
 
