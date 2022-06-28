@@ -17,5 +17,5 @@ nav-menu: true
 
 <!-- Content -->
 <body>
-	<iframe src="assets/files/2022_RESUME.pdf" width="100%" height="100%" style="border:none;"></iframe>
+	<iframe src="assets/files/2022_RESUME.pdf" width="100%" height="100%" style="border:none; position:absolute;"></iframe>
 </body>
