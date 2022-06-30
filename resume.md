@@ -16,7 +16,7 @@ nav-menu: true
 		</header>
 		
 		<!-- Content -->
-		<iframe src="assets/files/2022_RESUME.pdf" width="100%" style="border:none;"></iframe>
+		<iframe src="assets/files/2022_RESUME.pdf" width="100%" style="border:none; scrolling="no";></iframe>
 	</div>
 </section>
 </div>
